@@ -54,6 +54,17 @@
   place: San Diego, California, United States
   sub: SE
 
+- name: TACAS
+  year: 2019
+  id: tacas19
+  link: https://conf.researchr.org/home/tacas-2019
+  deadline: "2018-11-16 23:59:59"
+  timezone: Etc/GMT-6
+  date: Sat 6 - Thu 11 April 2019 
+  place: Prague, Czech Republic
+  sub: PL
+
+
 - name: POPL
   year: 2020
   id: popl20
