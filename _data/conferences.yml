@@ -15,7 +15,7 @@
   year: 2019
   id: oopsla19
   link: https://conf.researchr.org/track/splash-2019/splash-2019-oopsla
-  deadline: "2018-04-16 23:59:59"
+  deadline: "2019-04-05 23:59:59"
   timezone: Etc/GMT-6
   date: Sun 20 - Fri 25 October 2019
   place: Athens, Greece
@@ -45,24 +45,25 @@
 - name: ESEC/FSE
   year: 2019
   id: fse18
-  link: https://conf.researchr.org/home/fse-2018
-  deadline: "2018-03-09 23:59:59"
+  link: https://conf.researchr.org/home/fse-2019
+  deadline: "2019-02-20 23:59:59"
   timezone: Etc/GMT-6
-  date: November 4 - November 9, 2018
-  place: Lake Buena Vista, Florida, USA
+  date: 26-30 AUGUST 2019
+  place: TALLINN, ESTONIA 
   sub: SE
-
+  
 
 
 - name: ASE
-  year: 2018
+  year: 2019
   id: ase18
-  link: http://www.ase2018.com/
-  deadline: "2018-04-26 23:59:59"
+  link: https://2019.ase-conferences.org/
+  deadline: "2019-05-13 23:59:59"
   timezone: Etc/GMT-6
-  date: September 3 - September 7, 2018
-  place: Toulouse, France
+  date: Mon 11 - Fri 15 November 2019 
+  place: San Diego, California, United States
   sub: SE
+  note: '<b>NOTE</b>: Mandatory abstract deadline on May 6. More info <a href=''https://2019.ase-conferences.org/track/ase-2019-papers''>here</a>.'
 
 
 - name: ICSE
