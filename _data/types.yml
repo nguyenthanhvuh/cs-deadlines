@@ -4,3 +4,12 @@
 
 - name: Workshops
   sub: WS
+
+
+- name: Software Engineering
+  sub: SE
+
+
+
+- name: Programming Languages
+  sub: PL

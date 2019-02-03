@@ -1,46 +1,6 @@
 
 ---
 
-- name: NIER@ICSE
-  year: 2019
-  id: nier19
-  link: https://2019.icse-conferences.org/track/icse-2019-New-Ideas-and-Emerging-Reults
-  deadline: "2018-10-01 23:59:59"
-  timezone: Etc/GMT+12
-  date: May 25 - May 31, 2019
-  place: Montréal, QC, Canada
-  sub: CF
-
-- name: Programming
-  year: 2018
-  id: prog18
-  link: http://programming-journal.org/
-  deadline: "2018-10-01 23:59:59"
-  timezone: Etc/GMT+12
-  date: Unknown
-  place: Unknown
-  sub: CF
-
-- name: ICST
-  year: 2019
-  id: icst19
-  link: http://icst2019.xjtu.edu.cn
-  deadline: "2018-10-12 23:59:59"
-  timezone: Etc/GMT+12
-  date: April 22 - April 26, 2019
-  place: Xi'an, China
-  sub: CF
-
-- name: SANER
-  year: 2019
-  id: saner19
-  link: https://saner2019.github.io/
-  deadline: "2018-10-19 23:59:59"
-  timezone: Etc/GMT+12
-  date: February 24 - February 27, 2019
-  place: Hangzhou, China
-  sub: CF
-
 - name: ECOOP
   year: 2019
   id: prog19
@@ -49,7 +9,7 @@
   timezone: Etc/GMT+12
   date: July, 2019
   place: London, UK
-  sub: CF
+  sub: PL
 
 - name: ISSTA
   year: 2019
@@ -59,47 +19,7 @@
   timezone: Etc/GMT+12
   date: July 15 - July 19, 2019
   place: Beijing, China
-  sub: CF
-
-- name: MSR
-  year: 2018
-  id: msr18
-  link: https://conf.researchr.org/home/msr-2018
-  deadline: "2018-01-30 23:59:59"
-  timezone: Etc/GMT+12
-  date: May 28 - May 29, 2018
-  place: Gothenburg, Sweden
-  sub: CF
-
-- name: WAPI@ICSE
-  year: 2018
-  id: wapi18
-  link: https://w-api.github.io/
-  deadline: "2018-02-05 23:59:59"
-  timezone: Etc/GMT+12
-  date: June 2, 2018
-  place: Gothenburg, Sweden
-  sub: WS
-
-- name: ICPC
-  year: 2018
-  id: icpc18
-  link: https://conf.researchr.org/home/icpc-2018
-  deadline: "2018-02-06 23:59:59"
-  timezone: Etc/GMT+12
-  date: May 27 - May 28, 2018
-  place: Gothenburg, Sweden
-  sub: CF
-
-- name: MiSE@ICSE
-  year: 2018
-  id: mise18
-  link: https://sselab.de/lab2/public/wiki/MiSE/index.php?title=MISE_18_-_Gothenberg,_Sweden
-  deadline: "2018-02-11 23:59:59"
-  timezone: Etc/GMT+12
-  date: May 27 - May 28, 2018
-  place: Gothenburg, Sweden
-  sub: WS
+  sub: SE
 
 - name: ESEC/FSE
   year: 2018
@@ -109,27 +29,7 @@
   timezone: Etc/GMT+12
   date: November 4 - November 9, 2018
   place: Lake Buena Vista, Florida, USA
-  sub: CF
-
-- name: SPLC
-  year: 2018
-  id: splc2018
-  link: http://splc2018.net/
-  deadline: "2018-04-03 23:59:59"
-  timezone: Etc/GMT+12
-  date: September 10 - September 14, 2018
-  place: Gothenburg, Sweden
-  sub: CF
-
-- name: ICSME
-  year: 2018
-  id: icsme18
-  link: https://icsme2018.github.io/
-  deadline: "2018-04-06 23:59:59"
-  timezone: Etc/GMT+12
-  date: September 23 - September 29, 2018
-  place: Madrid, Spain
-  sub: CF
+  sub: SE
 
 - name: OOPSLA
   year: 2018
@@ -139,17 +39,7 @@
   timezone: Etc/GMT+12
   date: November 7 - November 9, 2018
   place: Boston, MA, USA
-  sub: CF
-
-- name: Onward!
-  year: 2018
-  id: onward18
-  link: https://2018.onward-conference.org/home
-  deadline: "2018-04-23 23:59:59"
-  timezone: Etc/GMT+12
-  date: November 4 - November 9, 2018
-  place: Boston, MA, USA
-  sub: CF
+  sub: PL
 
 - name: ASE
   year: 2018
@@ -159,57 +49,8 @@
   timezone: Etc/GMT+12
   date: September 3 - September 7, 2018
   place: Toulouse, France
-  sub: CF
+  sub: SE
 
-- name: MODELS
-  year: 2018
-  id: models18
-  link: http://modelsconference.org/
-  deadline: "2018-05-04 23:59:59"
-  timezone: Etc/GMT+12
-  date: October 14 - October 19, 2018
-  place: Copenhagen, Denmark
-  sub: CF
-
-- name: ESEM
-  year: 2018
-  id: esem18
-  link: http://eseiw2018.wixsite.com/esem2018
-  deadline: "2018-05-25 23:59:59"
-  timezone: Etc/GMT+12
-  date: October 11 - October 12, 2018
-  place: Oulu, Finland
-  sub: CF
-
-- name: SCAM
-  year: 2018
-  id: scam18
-  link: http://www.ieee-scam.org/2018
-  deadline: "2018-06-15 23:59:59"
-  timezone: Etc/GMT+12
-  date: September 23 - September 24, 2018
-  place: Madrid, Spain
-  sub: CF
-
-- name: SLE
-  year: 2018
-  id: sle18
-  link: http://www.sleconf.org/2018/
-  deadline: "2018-07-06 23:59:59"
-  timezone: Etc/GMT+12
-  date: November 5 - November 6, 2018
-  place: Boston, MA, USA
-  sub: CF
-
-- name: EXE@MODELS
-  year: 2018
-  id: exe18
-  link: http://www.modelexecution.org/?page_id=2173
-  deadline: "2018-07-17 23:59:59"
-  timezone: Etc/GMT+12
-  date: October 14, 2018
-  place: Copenhagen, Denmark
-  sub: WS
 
 - name: ICSE
   year: 2019
@@ -219,4 +60,4 @@
   timezone: Etc/GMT+12
   date: May 25 - May 31, 2019
   place: "Montr\xE9al, QC, Canada"
-  sub: CF
+  sub: SE
