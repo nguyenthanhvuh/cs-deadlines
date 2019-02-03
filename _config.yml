@@ -10,3 +10,5 @@ github_repo: cs-deadlines
 
 markdown: kramdown
 #ga_id: UA-36274081-2
+
+theme: jekyll-theme-minimal

@@ -1,9 +1,11 @@
-## SE Deadlines
+## PL/SE Deadlines
 
-Countdown timers to keep track of a bunch of SE conference deadlines.
+Countdown timers to keep track of a bunch of PL/SEconference deadlines.
 
-Original repository for AI deadlines is at https://github.com/abhshkdz/ai-deadlines/
+## Adding/updating a conference
 
-# Contributing
-To fix/update/insert a conference, please edit the [corresponding data file](_data/conferences.yml).
-
+To add or update information:
+- Fork the repository
+- Update `_data/conferences.yml`
+- Make sure it has the `title`, `year`, `id`, `link`, `deadline`, `timezone`, `date`, `place` attributes
+- Send a pull request
