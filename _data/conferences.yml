@@ -1,16 +1,5 @@
+
 ---
-
-# - name: ISSTA
-#   year: 2020
-#   id: issta20
-#   link: https://conf.researchr.org/home/issta-2020
-#   deadline: "2019-01-28 23:59:59"
-#   timezone: Etc/GMT-6
-#   date: July 15 - July 19, 2019
-#   place: Beijing, China
-#   sub: SE
-
-
 
 - name: CAV
   year: 2019
@@ -21,8 +10,6 @@
   date: July 15-18, 2019
   place: New York City
   sub: LV
-
-
 
 - name: ESEC/FSE
   year: 2019
@@ -54,17 +41,6 @@
   place: San Diego, California, United States
   sub: SE
 
-- name: TACAS
-  year: 2019
-  id: tacas19
-  link: https://conf.researchr.org/home/tacas-2019
-  deadline: "2018-11-16 23:59:59"
-  timezone: Etc/GMT-6
-  date: Sat 6 - Thu 11 April 2019 
-  place: Prague, Czech Republic
-  sub: PL
-
-
 - name: POPL
   year: 2020
   id: popl20
@@ -84,6 +60,16 @@
   date: May 25 - May 31, 2019
   place: "Montr\xE9al, QC, Canada"
   sub: SE
+
+- name: TACAS
+  year: 2019
+  id: tacas19
+  link: https://conf.researchr.org/home/tacas-2019
+  deadline: "2018-11-16 23:59:59"
+  timezone: Etc/GMT-6
+  date: Sat 6 - Thu 11 April 2019
+  place: Prague, Czech Republic
+  sub: PL
 
 - name: PLDI
   year: 2019
