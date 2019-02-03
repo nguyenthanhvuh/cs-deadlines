@@ -8,7 +8,7 @@
   deadline: "2019-02-20 23:59:59"
   timezone: Etc/GMT-6
   date: 26-30 AUGUST 2019
-  place: TALLINN, ESTONIA
+  place: Tallinn, Estonia
   sub: SE
 
 - name: OOPSLA
@@ -54,7 +54,7 @@
 
 - name: PLDI
   year: 2019
-  id: oopsla19
+  id: pldi19
   link: https://conf.researchr.org/home/pldi-2019
   deadline: "2018-11-18 23:59:59"
   timezone: Etc/GMT-6
@@ -64,7 +64,7 @@
 
 - name: ECOOP
   year: 2019
-  id: prog19
+  id: ecoop19
   link: https://2019.ecoop.org/
   deadline: "2019-01-11 23:59:59"
   timezone: Etc/GMT-6
@@ -73,7 +73,7 @@
   sub: PL2
 
 - name: ISSTA
-  year: 2020
+  year: 2019
   id: issta19
   link: https://conf.researchr.org/home/issta-2019
   deadline: "2019-01-28 23:59:59"
