@@ -1,14 +1,12 @@
-title: SE Conference Deadlines
+title: PL/SE Conference Deadlines
 description: This list is heavily biased towards my research topics.<br>I shall not be held liable for any missed deadline due to inaccuracies on this website ;)
 author: ThanhVu Nguyen
 
-domain: "https://nguyenthanhvuh.github.io/se-deadlines/"
-baseurl: /se-deadlines
+domain: "https://nguyenthanhvuh.github.io/cs-deadlines/"
+baseurl: /cs-deadlines
 
-#twitter_username: tdegueul
-#twitter_hashtag: machinelearning
 github_username: nguyenthanhvuh
-github_repo: se-deadlines
+github_repo: cs-deadlines
 
 markdown: kramdown
 #ga_id: UA-36274081-2
