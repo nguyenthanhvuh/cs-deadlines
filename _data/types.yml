@@ -13,3 +13,11 @@
 
 - name: Programming Languages
   sub: PL2
+
+
+- name: Logic and Verification (main)
+  sub: LV
+
+
+- name: Logic and Verification
+  sub: LV2

@@ -1,9 +1,32 @@
-
 ---
+
+# - name: ISSTA
+#   year: 2020
+#   id: issta20
+#   link: https://conf.researchr.org/home/issta-2020
+#   deadline: "2019-01-28 23:59:59"
+#   timezone: Etc/GMT-6
+#   date: July 15 - July 19, 2019
+#   place: Beijing, China
+#   sub: SE
+
+
+
+- name: CAV
+  year: 2019
+  id: cav19
+  link: http://i-cav.org/2019/
+  deadline: "2019-02-07 23:59:59"
+  timezone: Etc/GMT-6
+  date: July 15-18, 2019
+  place: New York City
+  sub: LV
+
+
 
 - name: ESEC/FSE
   year: 2019
-  id: fse18
+  id: fse19
   link: https://conf.researchr.org/home/fse-2019
   deadline: "2019-02-20 23:59:59"
   timezone: Etc/GMT-6
