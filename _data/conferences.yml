@@ -1,52 +1,65 @@
 
 ---
 
-- name: ECOOP
+# - name: ECOOP
+#   year: 2019
+#   id: prog19
+#   link: https://2019.ecoop.org/
+#   deadline: "2019-01-11 23:59:59"
+#   timezone: Etc/GMT-6
+#   date: July, 2019
+#   place: London, UK
+#   sub: PL2
+
+- name: OOPSLA
   year: 2019
-  id: prog19
-  link: https://2019.ecoop.org/
-  deadline: "2019-01-11 23:59:59"
-  timezone: Etc/GMT+12
-  date: July, 2019
-  place: London, UK
+  id: oopsla19
+  link: https://conf.researchr.org/track/splash-2019/splash-2019-oopsla
+  deadline: "2018-04-16 23:59:59"
+  timezone: Etc/GMT-6
+  date: Sun 20 - Fri 25 October 2019
+  place: Athens, Greece
   sub: PL
 
-- name: ISSTA
+- name: PLDI
   year: 2019
+  id: oopsla19
+  link: https://pldi19.sigplan.org/track/pldi-2019-papers
+  deadline: "2018-11-18 23:59:59"
+  timezone: Etc/GMT-6
+  date: Sat 22 - Fri 28 June 2019
+  place: Phoenix, Arizona, USA
+  sub: PL
+
+
+- name: ISSTA
+  year: 2020
   id: issta19
   link: https://conf.researchr.org/home/issta-2019
   deadline: "2019-01-28 23:59:59"
-  timezone: Etc/GMT+12
+  timezone: Etc/GMT-6
   date: July 15 - July 19, 2019
   place: Beijing, China
   sub: SE
 
 - name: ESEC/FSE
-  year: 2018
+  year: 2019
   id: fse18
   link: https://conf.researchr.org/home/fse-2018
   deadline: "2018-03-09 23:59:59"
-  timezone: Etc/GMT+12
+  timezone: Etc/GMT-6
   date: November 4 - November 9, 2018
   place: Lake Buena Vista, Florida, USA
   sub: SE
 
-- name: OOPSLA
-  year: 2018
-  id: oopsla18
-  link: https://conf.researchr.org/track/splash-2018/splash-2018-OOPSLA
-  deadline: "2018-04-16 23:59:59"
-  timezone: Etc/GMT+12
-  date: November 7 - November 9, 2018
-  place: Boston, MA, USA
-  sub: PL
+
 
 - name: ASE
   year: 2018
   id: ase18
   link: http://www.ase2018.com/
   deadline: "2018-04-26 23:59:59"
-  timezone: Etc/GMT+12
+  timezone: Etc/GMT-6
   date: September 3 - September 7, 2018
   place: Toulouse, France
   sub: SE
@@ -57,7 +70,7 @@
   id: icse19
   link: https://conf.researchr.org/home/icse-2019
   deadline: "2018-08-24 23:59:59"
-  timezone: Etc/GMT+12
+  timezone: Etc/GMT-6
   date: May 25 - May 31, 2019
   place: "Montr\xE9al, QC, Canada"
   sub: SE

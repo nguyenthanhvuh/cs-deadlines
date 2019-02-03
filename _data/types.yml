@@ -1,15 +1,15 @@
 ---
-- name: Conferences
-  sub: CF
-
-- name: Workshops
-  sub: WS
-
-
-- name: Software Engineering
+- name: Software Engineering (main)
   sub: SE
 
+- name: Software Engineering 
+  sub: SE2
+
+
+
+- name: Programming Languages (main)
+  sub: PL
 
 
 - name: Programming Languages
-  sub: PL
+  sub: PL2
