@@ -1,11 +1,11 @@
-title: SE Conference Deadlines # (Maintained by @tdegueul)
+title: SE Conference Deadlines
 description: This list is heavily biased towards my research topics.<br>I shall not be held liable for any missed deadline due to inaccuracies on this website ;)
-author: Thomas Degueule
+author: ThanhVu Nguyen
 
 domain: "https://nguyenthanhvuh.github.io/se-deadlines/"
 baseurl: /se-deadlines
 
-twitter_username: tdegueul
+#twitter_username: tdegueul
 #twitter_hashtag: machinelearning
 github_username: nguyenthanhvuh
 github_repo: se-deadlines
