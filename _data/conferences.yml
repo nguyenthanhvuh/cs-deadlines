@@ -1,33 +1,15 @@
 
 ---
 
-
-# 2020
-
-
-- name: POPL
-  year: 2020
-  id: popl20
-  link: https://conf.researchr.org/home/popl-2020
-  deadline: "2018-07-10 23:59:59"
-  timezone: Etc/GMT-6
-  date: Sun 19 - Sat 25 January 2020
-  place: New Orleans, Louisiana, United States
-  sub: PL
-
-
-# 2019
-
-- name: ECOOP
+- name: ESEC/FSE
   year: 2019
-  id: prog19
-  link: https://2019.ecoop.org/
-  deadline: "2019-01-11 23:59:59"
+  id: fse18
+  link: https://conf.researchr.org/home/fse-2019
+  deadline: "2019-02-20 23:59:59"
   timezone: Etc/GMT-6
-  date: July, 2019
-  place: London, UK
-  sub: PL2
-
+  date: 26-30 AUGUST 2019
+  place: TALLINN, ESTONIA
+  sub: SE
 
 - name: OOPSLA
   year: 2019
@@ -39,6 +21,37 @@
   place: Athens, Greece
   sub: PL
 
+- name: ASE
+  year: 2019
+  id: ase18
+  link: https://conf.researchr.org/home/ase-2019
+  deadline: "2019-05-13 23:59:59"
+  timezone: Etc/GMT-6
+  date: Mon 11 - Fri 15 November 2019
+  place: San Diego, California, United States
+  sub: SE
+  note: "<b>NOTE</b>: Mandatory abstract deadline on May 6. More info <a href=""https://2019.ase-conferences.org/track/ase-2019-papers"">here</a>."
+
+- name: POPL
+  year: 2020
+  id: popl20
+  link: https://conf.researchr.org/home/popl-2020
+  deadline: "2019-07-10 23:59:59"
+  timezone: Etc/GMT-6
+  date: Sun 19 - Sat 25 January 2020
+  place: New Orleans, Louisiana, United States
+  sub: PL
+
+- name: ICSE
+  year: 2019
+  id: icse19
+  link: https://conf.researchr.org/home/icse-2019
+  deadline: "2018-08-24 23:59:59"
+  timezone: Etc/GMT-6
+  date: May 25 - May 31, 2019
+  place: "Montr\xE9al, QC, Canada"
+  sub: SE
+
 - name: PLDI
   year: 2019
   id: oopsla19
@@ -49,8 +62,15 @@
   place: Phoenix, Arizona, USA
   sub: PL
 
-
-
+- name: ECOOP
+  year: 2019
+  id: prog19
+  link: https://2019.ecoop.org/
+  deadline: "2019-01-11 23:59:59"
+  timezone: Etc/GMT-6
+  date: July, 2019
+  place: London, UK
+  sub: PL2
 
 - name: ISSTA
   year: 2020
@@ -60,38 +80,4 @@
   timezone: Etc/GMT-6
   date: July 15 - July 19, 2019
   place: Beijing, China
-  sub: SE
-
-- name: ESEC/FSE
-  year: 2019
-  id: fse18
-  link: https://conf.researchr.org/home/fse-2019
-  deadline: "2019-02-20 23:59:59"
-  timezone: Etc/GMT-6
-  date: 26-30 AUGUST 2019
-  place: TALLINN, ESTONIA 
-  sub: SE
-  
-
-
-- name: ASE
-  year: 2019
-  id: ase18
-  link: https://conf.researchr.org/home/ase-2019
-  deadline: "2019-05-13 23:59:59"
-  timezone: Etc/GMT-6
-  date: Mon 11 - Fri 15 November 2019 
-  place: San Diego, California, United States
-  sub: SE
-  note: '<b>NOTE</b>: Mandatory abstract deadline on May 6. More info <a href=''https://2019.ase-conferences.org/track/ase-2019-papers''>here</a>.'
-
-
-- name: ICSE
-  year: 2019
-  id: icse19
-  link: https://conf.researchr.org/home/icse-2019
-  deadline: "2018-08-24 23:59:59"
-  timezone: Etc/GMT-6
-  date: May 25 - May 31, 2019
-  place: "Montr\xE9al, QC, Canada"
   sub: SE
