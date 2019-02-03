@@ -31,7 +31,6 @@
   place: San Diego, California, United States
   sub: SE
 
-
 - name: POPL
   year: 2020
   id: popl20
@@ -62,14 +61,24 @@
   place: Phoenix, Arizona, USA
   sub: PL
 
+- name: ICFP
+  year: 2019
+  id: icfp19
+  link: https://conf.researchr.org/home/icfp-2019
+  deadline: "2019-01-11 23:59:59"
+  timezone: Etc/GMT-6
+  date: Sun 18 - Fri 23 August 2019
+  place: Berlin, Germany
+  sub: PL2
+
 - name: ECOOP
   year: 2019
   id: ecoop19
-  link: https://2019.ecoop.org/
+  link: https://conf.researchr.org/home/ecoop-2019
   deadline: "2019-01-11 23:59:59"
   timezone: Etc/GMT-6
-  date: July, 2019
-  place: London, UK
+  date: Mon 15 - Fri 19 July 2019
+  place: Hammersmith, London, United Kingdom
   sub: PL2
 
 - name: ISSTA
