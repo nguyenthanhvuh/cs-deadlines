@@ -2,6 +2,118 @@
 ---
 
 - name: CAV
+  year: 2020
+  id: cav19
+  link: http://i-cav.org/2020/
+  deadline: "2020-02-07 23:59:59"
+  timezone: Etc/GMT-6
+  date: July 15-18, 2020
+  place: New York City, USA
+  sub: LV
+
+- name: ESEC/FSE
+  year: 2020
+  id: fse19
+  link: https://conf.researchr.org/home/fse-2020
+  deadline: "2020-02-20 23:59:59"
+  timezone: Etc/GMT-6
+  date: 26-30 AUGUST 2020
+  place: Tallinn, Estonia
+  sub: SE
+
+- name: OOPSLA
+  year: 2020
+  id: oopsla19
+  link: https://conf.researchr.org/track/splash-2020/splash-2020-oopsla
+  deadline: "2020-04-05 23:59:59"
+  timezone: Etc/GMT-6
+  date: Sun 20 - Fri 25 October 2020
+  place: Athens, Greece
+  sub: PL
+
+- name: ASE
+  year: 2020
+  id: ase19
+  link: https://conf.researchr.org/home/ase-2020
+  deadline: "2020-05-13 23:59:59"
+  timezone: Etc/GMT-6
+  date: Mon 11 - Fri 15 November 2020
+  place: San Diego, California, United States
+  sub: SE
+
+- name: POPL
+  year: 2020
+  id: popl20
+  link: https://conf.researchr.org/home/popl-2020
+  deadline: "2020-07-10 23:59:59"
+  timezone: Etc/GMT-6
+  date: Sun 19 - Sat 25 January 2020
+  place: New Orleans, Louisiana, United States
+  sub: PL
+
+- name: ICSE
+  year: 2020
+  id: icse19
+  link: https://conf.researchr.org/home/icse-2020
+  deadline: "2018-08-23 23:59:59"
+  timezone: Etc/GMT-6
+  date: May 25 - May 31, 2020
+  place: "Seoul, South Korea"
+  sub: SE
+
+- name: TACAS
+  year: 2020
+  id: tacas19
+  link: https://conf.researchr.org/home/tacas-2020
+  deadline: "2018-11-16 23:59:59"
+  timezone: Etc/GMT-6
+  date: Sat 6 - Thu 11 April 2020
+  place: Prague, Czech Republic
+  sub: PL
+
+- name: PLDI
+  year: 2020
+  id: pldi19
+  link: https://conf.researchr.org/home/pldi-2020
+  deadline: "2018-11-18 23:59:59"
+  timezone: Etc/GMT-6
+  date: Sat 22 - Fri 28 June 2020
+  place: Phoenix, Arizona, USA
+  sub: PL
+
+- name: ICFP
+  year: 2020
+  id: icfp19
+  link: https://conf.researchr.org/home/icfp-2020
+  deadline: "2020-01-11 23:59:59"
+  timezone: Etc/GMT-6
+  date: Sun 18 - Fri 23 August 2020
+  place: Berlin, Germany
+  sub: PL
+
+- name: ECOOP
+  year: 2020
+  id: ecoop19
+  link: https://conf.researchr.org/home/ecoop-2020
+  deadline: "2020-01-11 23:59:59"
+  timezone: Etc/GMT-6
+  date: Mon 15 - Fri 19 July 2020
+  place: Hammersmith, London, United Kingdom
+  sub: PL2
+
+- name: ISSTA
+  year: 2020
+  id: issta19
+  link: https://conf.researchr.org/home/issta-2020
+  deadline: "2020-01-28 23:59:59"
+  timezone: Etc/GMT-6
+  date: July 15 - July 19, 2020
+  place: Beijing, China
+  sub: SE
+
+
+
+- name: CAV
   year: 2019
   id: cav19
   link: http://i-cav.org/2019/
