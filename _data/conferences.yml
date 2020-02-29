@@ -31,15 +31,15 @@
 #   place: Athens, Greece
 #   sub: PL
 
-# - name: ASE
-#   year: 2020
-#   id: ase20
-#   link: https://conf.researchr.org/home/ase-2020
-#   deadline: "2020-05-13 23:59:59"
-#   timezone: Etc/GMT-6
-#   date: Mon 11 - Fri 15 November 2020
-#   place: San Diego, California, United States
-#   sub: SE
+- name: ASE
+  year: 2020
+  id: ase20
+  link: https://conf.researchr.org/home/ase-2020
+  deadline: "2020-05-24 23:59:59"
+  timezone: Etc/GMT-6
+  date: Mon 21 - Fri 25 September 2020
+  place: Melbourne, Australia
+  sub: SE
 
 - name: POPL
   year: 2020
