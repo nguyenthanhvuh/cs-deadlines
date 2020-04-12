@@ -11,31 +11,41 @@
 #   place: New York City, USA
 #   sub: LV
 
-# - name: ESEC/FSE
-#   year: 2020
-#   id: fse20
-#   link: https://conf.researchr.org/home/fse-2020
-#   deadline: "2020-02-20 23:59:59"
-#   timezone: Etc/GMT-6
-#   date: 26-30 AUGUST 2020
-#   place: Tallinn, Estonia
-#   sub: SE
+- name: PLDI
+  year: 2021
+  id: pldi21
+  link: https://conf.researchr.org/home/pldi-2021
+  deadline: "2020-11-22 23:59:59"
+  timezone: Etc/GMT-6
+  date: ?
+  place: ?
+  sub: PL
 
-# - name: OOPSLA
-#   year: 2020
-#   id: oopsla20
-#   link: https://conf.researchr.org/track/splash-2020/splash-2020-oopsla
-#   deadline: "2020-04-05 23:59:59"
-#   timezone: Etc/GMT-6
-#   date: Sun 20 - Fri 25 October 2020
-#   place: Athens, Greece
-#   sub: PL
+- name: ESEC/FSE
+  year: 2020
+  id: fse20
+  link: https://conf.researchr.org/home/fse-2020
+  deadline: "2020-02-20 23:59:59"
+  timezone: Etc/GMT-6
+  date: Sun 8 - Fri 13 November 2020
+  place: Sacramento, CA, United States
+  sub: SE
+
+- name: OOPSLA
+  year: 2020
+  id: oopsla20
+  link: https://conf.researchr.org/track/splash-2020/splash-2020-oopsla
+  deadline: "2020-05-15 23:59:59"
+  timezone: Etc/GMT-6
+  date: Sun 15 - Fri 20 November 2020
+  place: Chicago, United States
+  sub: PL
 
 - name: ASE
   year: 2020
   id: ase20
   link: https://conf.researchr.org/home/ase-2020
-  deadline: "2020-05-24 23:59:59"
+  deadline: "2020-05-8 23:59:59"
   timezone: Etc/GMT-6
   date: Mon 21 - Fri 25 September 2020
   place: Melbourne, Australia
@@ -78,7 +88,7 @@
   deadline: "2019-11-22 23:59:59"
   timezone: Etc/GMT-6
   date: Mon 15 - Sat 20 June 2020
-  place: London, UK
+  place: London, UK (Online)
   sub: PL
 
 # - name: ICFP
